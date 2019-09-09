@@ -1,0 +1,6 @@
+.square{
+  height: 60px;
+  width: 60px;
+  background-color: blue;
+  position: relative;
+}
